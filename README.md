@@ -1,4 +1,5 @@
 ﻿# Neumorphism Login page
 
-![image](https://github.com/gokarna123-goku/neumorphism_login/assets/70308228/b6d9d388-fdf5-46c6-a7de-c1c11127525a)
+![image](https://github.com/gtech-official08/neumorphism_login/assets/127587520/f7517507-970f-455d-8242-6dca65cda016)
+
 
